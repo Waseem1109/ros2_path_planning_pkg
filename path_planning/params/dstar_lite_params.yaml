@@ -1,0 +1,5 @@
+d_star_lite_planner_node:
+  ros__parameters:
+    robot_radius: 0.1  
+    base_frame: "base_link"  
+    map_frame: "map" 

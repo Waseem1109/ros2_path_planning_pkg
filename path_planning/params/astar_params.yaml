@@ -1,0 +1,5 @@
+a_star_planner_node:
+  ros__parameters:
+    robot_radius: 0.3  
+    base_frame: "base_link"  
+    map_frame: "map" 
